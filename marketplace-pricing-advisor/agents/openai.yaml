@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketplace Pricing Advisor"
+  short_description: "Price, tune, and create Marketplace listings from listings or photos."
+  default_prompt: "Review my active Marketplace listings and recommend price changes, or use my product photos to create a market-priced listing."
